@@ -1,5 +1,8 @@
-## Hi there 👋
-Love solving complicated problems and creating software solutions :robot:. I :heart: Open Source and enjoy working on interesting open source projects.
+### Hey 👋, I'm Kristijan
+
+[![Github](https://img.shields.io/github/followers/kristijanPetr?label=Follow&style=social)](https://github.com/kristijanPetr)
+
+🧠 Passionate about tackling complex problems and engineering robust software solutions 💻⚙️. I 💡 Open Source and thrive on building and contributing to cutting-edge projects 🛠️📦🧪.
 <!--
 **kristijanPetr/kristijanPetr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +17,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![kristijanPetr's Stats](https://github-readme-stats-git-main-petrovskiks-projects.vercel.app/api?username=kristijanPetr&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![kristijanPetr's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kristijanPetr&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-
  
+<!-- Dark Mode -->
+<div align="center"> 
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+<img height=259 src="https://github-readme-stats-git-main-petrovskiks-projects.vercel.app/api/top-langs/?username=kristijanPetr&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Krisitjan's Language stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+<img height=259 src="https://github-readme-stats-git-main-petrovskiks-projects.vercel.app/api?username=kristijanPetr&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Kristijan's Github stats" />
+</a>
+</div>
+
+<br/>
